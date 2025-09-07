@@ -25,4 +25,4 @@ This project is a front-end clone of the [Apple Vision Pro homepage](https://www
   - [ScrollTrigger v3.12.1](https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.1/ScrollTrigger.min.js)
 
 ## Project Structure
-
+Apple-vision/ ├── index.html # Main HTML file with 23 sections ├── style.css # CSS for responsive styling and layouts ├── script.js # JavaScript for scrolling, animations, and canvas logic ├── Apple vision image.png # Local image used in the project └── README.md # Project documentation
